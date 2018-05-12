@@ -13,7 +13,10 @@ function johnLennonFacts(facts) {
     "He was a choir boy and boy scout",
     "He hated the sound of his own voice"
   ];  
-
+  let count = 0;
+  while (count < facts.length) {
+    
+  }
 
 
 function iLoveTheBeatles(number) {
