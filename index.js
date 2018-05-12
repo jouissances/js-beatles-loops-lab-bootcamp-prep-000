@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
   while (count < facts.length) {
     facts[0].concat('!!!')
   }
-
+}
 
 function iLoveTheBeatles(number) {
   let array3 = [];
