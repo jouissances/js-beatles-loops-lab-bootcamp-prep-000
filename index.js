@@ -15,7 +15,7 @@ function johnLennonFacts(facts) {
   ];  
   let count = 0;
   while (count < facts.length) {
-    
+    facts[0].concat('!!!')
   }
 
 
