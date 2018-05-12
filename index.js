@@ -18,15 +18,3 @@ function johnLennonFacts(facts) {
     facts[0].concat('!!!')
   }
 }
-
-function iLoveTheBeatles(number) {
-  let array3 = [];
-  do {
-    array3.push(`I love the Beatles!`);
-    number++;
-  } while (number < 15);
-<<<<<<< HEAD
-  return array3;
-=======
->>>>>>> b991a7b27e84eb6097bf828f8d9823bd6cea4baf
-}
